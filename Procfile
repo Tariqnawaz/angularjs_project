@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/*.war  
+web: java $JAVA_OPTS -jar target/*.war  --spring.profiles.active=prod --server.port=$PORT
