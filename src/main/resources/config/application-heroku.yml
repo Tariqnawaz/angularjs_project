@@ -12,7 +12,7 @@
 
 eureka:
     instance:
-        hostname: evening-waters-67240.herokuapp.com
+        hostname: v-1.herokuapp.com
         non-secure-port: 80
         prefer-ip-address: false
     client:

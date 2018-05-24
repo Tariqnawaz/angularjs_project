@@ -18,7 +18,7 @@
     "prodDatabaseType": "mysql",
     "searchEngine": "elasticsearch",
     "messageBroker": false,
-    "serviceDiscoveryType": "eureka",
+    "serviceDiscoveryType": "false",
     "buildTool": "maven",
     "enableSocialSignIn": true,
     "jwtSecretKey": "f5d520b2c69dc855596ca328a0f70b844b0eeee1",
@@ -36,6 +36,6 @@
     "languages": [
       "en"
     ],
-    "herokuAppName": "evening-waters-67240"
+    "herokuAppName": null
   }
 }
