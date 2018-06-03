@@ -5,6 +5,6 @@
         .module('bismillahApp')
         .constant('VERSION', "0.0.1-SNAPSHOT")
         .constant('DEBUG_INFO_ENABLED', false)
-        .constant('BUILD_TIMESTAMP', 1527178449135)
+        .constant('BUILD_TIMESTAMP', 1527308099529)
 ;
 })();
